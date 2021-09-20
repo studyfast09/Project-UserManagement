@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace UserManagement.DTO
 {
-    public class Class1
+    public class UserInfo
     {
     }
 }
