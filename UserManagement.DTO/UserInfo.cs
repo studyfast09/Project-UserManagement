@@ -8,5 +8,6 @@ namespace UserManagement.DTO
 {
     public class UserInfo
     {
+        public int UserId { get; set; }
     }
 }
